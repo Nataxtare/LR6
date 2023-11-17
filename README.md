@@ -16,34 +16,28 @@
 Операции
 
 
-$ git log --pretty=format:"%h - %ad - %an: %s" --date=short
-
-  
-07faf1f - 17.11.2023 - Nataxtare: Добавлен прогресс 2
+$ git log --pretty=format:"%h - %ad -%an: %s" --date=short
 
 
-d38191a - 17.11.2023 - Nataxtare: Добавлен прогресс
+8d191ad - 2023-11-17 -natalya: The file is changed
 
 
-0e7a404 - 17.11.2023 - Nataxtare: файл был удален
+1f11455 - 2023-11-17 -natalya: Resolved the conflict
 
 
-09f82f6 - 17.11.2023 - Nataxtare: разрешен конфликт
+4b37555 - 2023-11-17 -Nataxtare: Add files via upload
 
 
-6ca65ac - 17.11.2023 - Nataxtare: добавлены файлы загрузки 921f53b
+921f53b - 2020-11-21 -Kurtyanik: Обновление информации
 
 
-21.11.2020 - Куртяник: Обновление информации
-
-  
-0f9f50d - 21 ноября 202 0 г. - Куртяник: Заполнил файл
+0f9f50d - 2020-11-21 -Kurtyanik: Заполнил файл
 
 
-c08a654 - 21 ноября 2020 г. - Куртяник: Файл создан пустым
+c08a654 - 2020-11-21 -Kurtyanik: Файл создан пустым
 
 
-3c6e913 - 21 ноября 2020 г. - Куртяник: Первоначальный коммит
+3c6e913 - 2020-11-21 -Kurtyanik: Initial commit
 
 
 Лог команды
