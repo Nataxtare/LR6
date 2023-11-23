@@ -122,7 +122,7 @@ git push origin new_branch
 Переход в диск с и магнит ГУАП
 
 
-Первый скриншот https://github.com/Nataxtare/LR6/blob/master/imgs/1.png
+Первый скриншот (https://github.com/Nataxtare/LR6/blob/master/imgs/1.png)
 
 
 Изображения консоли
