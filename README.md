@@ -128,6 +128,8 @@ git push origin new_branch
 Отправка изменений в новую ветку new_branch
 
 ![s6](https://github.com/Nataxtare/LR6/blob/master/imgs/6.png)
+
+
 ![s7](https://github.com/Nataxtare/LR6/blob/master/imgs/7.png)
 
 
