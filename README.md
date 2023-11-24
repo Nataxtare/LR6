@@ -81,7 +81,7 @@ git push origin new_branch
 ### Изображения
 
 
-Переход в диск с и магнит ГУАП
+Переход в диск с и папку labop
 
 ![s1](https://github.com/Nataxtare/LR6/blob/master/imgs/1.png)
 
