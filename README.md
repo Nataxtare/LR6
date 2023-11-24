@@ -103,7 +103,7 @@ git push origin new_branch
 
 Просмотр корректировки файлов
 
-![s4](https://github.com/Nataxtare/LR6/blob/master/imgs/4.png)
+![s4](https://github.com/Nataxtare/LR6/blob/master/imgs/5.png)
 
 Добавление всех измененных файлов
 
@@ -125,7 +125,7 @@ git push origin new_branch
 
 Отправка изменений в новую ветку new_branch
 
-![s3](https://github.com/Nataxtare/LR6/blob/master/imgs/1.png)
+![s6](https://github.com/Nataxtare/LR6/blob/master/imgs/6.png)
 
 
 ## Вывод:
