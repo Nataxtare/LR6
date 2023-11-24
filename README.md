@@ -21,10 +21,10 @@
 $ git log --pretty=format:"%h - %ad -%an: %s" --date=short
 
 
-8d191ad - 2023-11-17 -natalya: The file is changed
+8d191ad - 2023-11-17 -Nataxtare: The file is changed
 
 
-1f11455 - 2023-11-17 -natalya: Resolved the conflict
+1f11455 - 2023-11-17 -Nataxtare: Resolved the conflict
 
 
 4b37555 - 2023-11-17 -Nataxtare: Add files via upload
@@ -128,13 +128,16 @@ git push origin new_branch
 Первый скриншот 
 
 
-Изображения консоли
-
-
 клонирования репозитории
 
 
 Переход в каталог LR6, который был создан после клонирования репозитория
+
+
+![s2](https://github.com/Nataxtare/LR6/blob/master/imgs/1.png)
+
+
+Второй скриншот
 
 
 Получение обновлений из удаленного репозитория
@@ -143,10 +146,10 @@ git push origin new_branch
 Просмотр истории коммитов в репозитории
 
 
-Второй скриншот
+![s3](https://github.com/Nataxtare/LR6/blob/master/imgs/1.png)
 
 
-Отображает консоль
+Третий скриншот
 
 
 Просмотр последнего коммита
@@ -161,10 +164,10 @@ git push origin new_branch
 Просмотр корректировки файлов
 
 
+![s3](https://github.com/Nataxtare/LR6/blob/master/imgs/1.png)
+
+
 Третий скриншот
-
-
-Изображения консоли
 
 
 Добавление всех измененных файлов
@@ -195,6 +198,9 @@ git push origin new_branch
 
 
 Отправка изменений в новую ветку new_branch
+
+
+![s3](https://github.com/Nataxtare/LR6/blob/master/imgs/1.png)
 
 
 Четвертый скриншот
