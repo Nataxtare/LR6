@@ -8,7 +8,8 @@
 
 ## Ход работы
 
-Операции
+
+### Операции
 
 
 $ git log --pretty=format:"%h - %ad -%an: %s" --date=short
@@ -28,7 +29,7 @@ c08a654 - 2020-11-21 -Kurtyanik: Файл создан пустым
 3c6e913 - 2020-11-21 -Kurtyanik: Initial commit
 
 
-## Лог команды
+### Лог команды
 
 cd с:
 
