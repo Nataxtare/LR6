@@ -8,26 +8,35 @@
 
 ## Ход работы
 
-
 Операции
 
-
 $ git log --pretty=format:"%h - %ad -%an: %s" --date=short
+
 8d191ad - 2023-11-17 -Nataxtare: The file is changed
+
 1f11455 - 2023-11-17 -Nataxtare: Resolved the conflict
+
 4b37555 - 2023-11-17 -Nataxtare: Add files via upload
+
 921f53b - 2020-11-21 -Kurtyanik: Обновление информации
+
 0f9f50d - 2020-11-21 -Kurtyanik: Заполнил файл
+
 c08a654 - 2020-11-21 -Kurtyanik: Файл создан пустым
+
 3c6e913 - 2020-11-21 -Kurtyanik: Initial commit
 
 
 ## Лог команды
 
 cd с:
+
 cd labop
+
 git clone https://github.com/Nataxtare/LR6
+
 cd LR6
+
 git pull
 
 git log --all
