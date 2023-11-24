@@ -93,7 +93,7 @@ git push origin new_branch
 
 Просмотр истории коммитов в репозитории
 
-![s3](https://github.com/Nataxtare/LR6/blob/master/imgs/1.png)
+![s3](https://github.com/Nataxtare/LR6/blob/master/imgs/3.png)
 
 Просмотр последнего коммита
 
@@ -103,7 +103,7 @@ git push origin new_branch
 
 Просмотр корректировки файлов
 
-![s3](https://github.com/Nataxtare/LR6/blob/master/imgs/1.png)
+![s4](https://github.com/Nataxtare/LR6/blob/master/imgs/4.png)
 
 Добавление всех измененных файлов
 
