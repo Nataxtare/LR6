@@ -87,7 +87,7 @@ git push origin new_branch
 
 Переход в каталог LR6, который был создан после клонирования репозитория
 
-![s2](https://github.com/Nataxtare/LR6/blob/master/imgs/1.png)
+![s2](https://github.com/Nataxtare/LR6/blob/master/imgs/2.png)
 
 Получение обновлений из удаленного репозитория
 
