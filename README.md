@@ -19,9 +19,7 @@
 
 
 $ git log --pretty=format:"%h - %ad -%an: %s" --date=short
-
 8d191ad - 2023-11-17 -Nataxtare: The file is changed
-
 1f11455 - 2023-11-17 -Nataxtare: Resolved the conflict
 
 4b37555 - 2023-11-17 -Nataxtare: Add files via upload
