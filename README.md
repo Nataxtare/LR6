@@ -94,8 +94,6 @@ git push origin new_branch
 ![s1](https://github.com/Nataxtare/LR6/blob/master/imgs/1.png)
 
 
-Первый скриншот 
-
 
 Клонирование репозитория
 
@@ -106,9 +104,6 @@ git push origin new_branch
 ![s2](https://github.com/Nataxtare/LR6/blob/master/imgs/1.png)
 
 
-Второй скриншот
-
-
 Получение обновлений из удаленного репозитория
 
 
@@ -116,9 +111,6 @@ git push origin new_branch
 
 
 ![s3](https://github.com/Nataxtare/LR6/blob/master/imgs/1.png)
-
-
-Третий скриншот
 
 
 Просмотр последнего коммита
@@ -134,9 +126,6 @@ git push origin new_branch
 
 
 ![s3](https://github.com/Nataxtare/LR6/blob/master/imgs/1.png)
-
-
-Третий скриншот
 
 
 Добавление всех измененных файлов
@@ -170,9 +159,6 @@ git push origin new_branch
 
 
 ![s3](https://github.com/Nataxtare/LR6/blob/master/imgs/1.png)
-
-
-Четвертый скриншот
 
 
 ## Вывод:
