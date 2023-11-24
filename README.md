@@ -31,8 +31,6 @@ c08a654 - 2020-11-21 -Kurtyanik: Файл создан пустым
 
 ### Лог команды
 
-cd с:
-
 cd labop
 
 git clone https://github.com/Nataxtare/LR6
@@ -81,7 +79,7 @@ git push origin new_branch
 ### Изображения
 
 
-Переход в диск с и папку labop
+Переход в папку labop
 
 ![s1](https://github.com/Nataxtare/LR6/blob/master/imgs/1.png)
 
