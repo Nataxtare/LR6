@@ -19,7 +19,9 @@
 
 
 $ git log --pretty=format:"%h - %ad -%an: %s" --date=short
+
 8d191ad - 2023-11-17 -Nataxtare: The file is changed
+
 1f11455 - 2023-11-17 -Nataxtare: Resolved the conflict
 
 4b37555 - 2023-11-17 -Nataxtare: Add files via upload
@@ -38,68 +40,47 @@ c08a654 - 2020-11-21 -Kurtyanik: Файл создан пустым
 
 cd с:
 
-
 cd labop
-
 
 git clone https://github.com/Nataxtare/LR6
 
-
 cd LR6
-
 
 git pull
 
-
 git log --all
-
 
 git log -n 1
 
-
 git merge origin/branch1
-
 
 git status
 
-
 cat mergefile.txt
 
-
 git add .
-
 
 git commit -m «Разрешил конфликт»
 
-
 git push origin -d Branch1
 
-
 git add .
-
 
 git commit -m «Файл был изменен»
 
 git add .
 
-
 git commit -m «Файл был изменен снова»
-
 
 git reset --hard HEAD^
 
-
 git checkout -b new_branch
-
 
 git log --pretty=format:"%h - %ad - %an: %s" --date=short
 
-
 git add .
 
-
 git commit -m "Окончательный"
-
 
 git push origin new_branch
 
