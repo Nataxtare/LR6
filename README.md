@@ -115,6 +115,8 @@ git push origin new_branch
 
 Добавление всех измененных файлов
 
+![s5](https://github.com/Nataxtare/LR6/blob/master/imgs/5.png)
+
 Фиксация первых этапов работы и второго
 
 Просмотр истории коммитов в кратком формате
