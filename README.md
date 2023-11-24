@@ -10,6 +10,7 @@
 
 Операции
 
+
 $ git log --pretty=format:"%h - %ad -%an: %s" --date=short
 
 8d191ad - 2023-11-17 -Nataxtare: The file is changed
